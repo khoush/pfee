@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243981485048",
+    "project_id": "mazraa-fe2b0",
+    "storage_bucket": "mazraa-fe2b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243981485048:android:2fc1c1e59b336b53f48c0d",
+        "android_client_info": {
+          "package_name": "com.example.mazraamarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIiJXmgPVMFHTbT8_mZvm6o_yjqt6ltrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
